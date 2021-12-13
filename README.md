@@ -1,5 +1,6 @@
 ## Git Cheat Sheet
 
+Reference for using Git in team project.
 History of Git commands.
 
 ### Basic Commands
