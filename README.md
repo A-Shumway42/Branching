@@ -10,3 +10,9 @@ cuurent directory to git index, staging them for commit
 * `git status` - display current status of local working directory/repository
 * `git log` - list commit history
 * `git log --oneline` - list commit history, compact format
+
+
+### Branching Commands
+* `git branch` - List local git branches
+* `git branch newBranch` - Create local branches `newBranch`
+* `git checkout newBranch` - Check out local branch `newBranch`
