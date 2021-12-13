@@ -16,3 +16,4 @@ cuurent directory to git index, staging them for commit
 * `git branch` - List local git branches
 * `git branch newBranch` - Create local branches `newBranch`
 * `git checkout newBranch` - Check out local branch `newBranch`
+* `git branch -M otherBranch` - Rename current branch to `otherBranch`
